@@ -1,13 +1,12 @@
 # Finance_Data_Analysis_PowerBi
 
-# Finance Data Analysis
-
 This repository presents a comprehensive finance data analysis project, focusing on understanding revenue, spending, project performance, and payment methods. The analysis is inspired by the Finance Dashboard and aims to extract actionable insights from the raw financial data.
 
 
 ## Project Overview
 
 The primary objective of this project is to perform an in-depth analysis of financial data to identify key trends in revenue and expenses, evaluate the performance of various projects, and understand the distribution of spending across different categories and payment methods. The insights derived can support strategic financial planning and decision-making within an organization. The project also aims to recreate and validate key metrics and visualizations from a reference finance dashboard.
+
 <img width="1528" height="829" alt="image" src="https://github.com/user-attachments/assets/1541b1aa-cbdc-4f60-b648-18f119aab4c8" />
 
 
